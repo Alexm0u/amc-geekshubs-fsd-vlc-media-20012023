@@ -1,0 +1,20 @@
+body{background-color: aqua;}
+
+.container{background-color: red;
+display: flex;
+height: 100vh;
+}
+
+.header{background-color: blue;
+width: 100vw;}
+
+.main{background-color: orange;
+    height: 50vh;
+    display:flex}
+
+.main-1{background-color: green;}
+
+.main-2{background-color: blueviolet;}
+
+.footer{background-color: yellow;
+height: 50vh;}
